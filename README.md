@@ -30,3 +30,11 @@ as the game as suggests rock,paper and scissors have 3 class labels, hence the l
 # sarcasm ( NLP ) 
  
 it is one of the most interesting question of tensorflow course, here unlike dealing with categorical or numerical data we utilize texts with the help of text tokenizer, and the objective of the model to detect whether in the test case has sarcasm or not. This function can help make a difference in various segments of NLP if trained using benchmark.
+
+# Horse vs Human ( Image Classification with CNN) 
+
+Our color images have images of horses and humans with the depth of 3 colors and we shall have only 1 input neuron.
+
+# US Diesel prices ( Time series question ) 
+
+It is a question of time series with range of data from 1994 - 2021 interval and we need to help determine the next 10 observations of that feature.
